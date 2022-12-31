@@ -8,16 +8,16 @@ When looking for topics to create a database around, we decided to focus on the 
 The data for our database will be collected from a variety of third-party sources. For data about NFL players and their concussion injuries, data will be collected from datasets on data.world in a series of .csv files. The data on games during the seasons and which injuries occurred in which match will also be provided by data.world. The public data regarding the awards given to the players will be gathered directly from the NFL website. Rosters of teams during different seasons will be gathered from The Football Database website, which shows the players and their positions for each team and each season. Since most of the data is available to the public, there should be an issue with copyright or licensing. The license of the concussion dataset on data.world is not specified, however most datasets on the website are available to the public domain, so no copyright/licensing issues should be a concern. For data sources that are not already in a .csv file format, we will create a csv file, inputting the data from the source to make our own. From all of this we will be combining the data from the three different sites into a new data file that represents all the appropriate data used in this project.
 
 ## BUSINESS RULES 
-Players can only be part of one team at a time 
-Player can have concussion injuries 
-Games must be between 2 teams 
-Players have contracts for a set number of seasons 
-Teams have a home stadium. 
-Teams sell tickets for games. 
-Players can have new contracts or can be traded to another team and gain a new contract. 
-Players can earn awards for a season. 
-Teams can compete in the Superbowl at the end of the season. 
-During a season the roster is established, members of the roster can be inactive for part of the season or the full season.
+Players can only be part of one team at a time </br>
+Player can have concussion injuries </br>
+Games must be between 2 teams </br>
+Players have contracts for a set number of seasons </br>
+Teams have a home stadium. </br>
+Teams sell tickets for games. </br>
+Players can have new contracts or can be traded to another team and gain a new contract. </br>
+Players can earn awards for a season. </br>
+Teams can compete in the Superbowl at the end of the season. </br>
+During a season the roster is established, members of the roster can be inactive for part of the season or the full season.</br>
 
 ## ENTITIES 
 Injuries </br>
@@ -29,18 +29,18 @@ Awards </br>
 Rosters 
 
 ## ENTITY RELATIONSHIPS (TABLE-TO-TABLE RELATIONSHIPS) 
-Rosters have Players. 
-Teams play Games. 
-Teams have Players. 
-Teams have a Roster. 
-Teams have Awards. 
-Games are played in Seasons. 
-Games have Teams. 
-Players have Awards. 
-Players have Injuries. 
+Rosters have Players. </br>
+Teams play Games. </br>
+Teams have Players. </br>
+Teams have a Roster. </br>
+Teams have Awards. </br>
+Games are played in Seasons. </br>
+Games have Teams. </br>
+Players have Awards. </br>
+Players have Injuries. </br>
 
 ## References 
-New World Encyclopedia. (2022, September 15). National Football League. Visit the main page. Retrieved September 15, 2022, from https://www.newworldencyclopedia.org/entry/National_Football_League 
-Teams | the football database. the football database. (n.d.). Retrieved September 15, 2022, from https://www.footballdb.com/teams/index.html 
-NFL. (2015, January 31). 2015 'NFL honors' complete list of winners. NFL.com. Retrieved September 15, 2022, from https://www.nfl.com/news/2015-nfl-honors-complete-list-of-winners-0ap3000000466415 
+New World Encyclopedia. (2022, September 15). National Football League. Visit the main page. Retrieved September 15, 2022, from https://www.newworldencyclopedia.org/entry/National_Football_League </br>
+Teams | the football database. the football database. (n.d.). Retrieved September 15, 2022, from https://www.footballdb.com/teams/index.html </br>
+NFL. (2015, January 31). 2015 'NFL honors' complete list of winners. NFL.com. Retrieved September 15, 2022, from https://www.nfl.com/news/2015-nfl-honors-complete-list-of-winners-0ap3000000466415 </br>
 data.world. (2017, June 7). NFL - dataset by Alice-C. data.world. Retrieved September 15, 2022, from https://data.world/alice-c/nfl 
