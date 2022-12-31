@@ -40,7 +40,7 @@ Players have Awards. </br>
 Players have Injuries. </br>
 
 ## References 
-New World Encyclopedia. (2022, September 15). National Football League. Visit the main page. Retrieved September 15, 2022, from https://www.newworldencyclopedia.org/entry/National_Football_League </br>
-Teams | the football database. the football database. (n.d.). Retrieved September 15, 2022, from https://www.footballdb.com/teams/index.html </br>
-NFL. (2015, January 31). 2015 'NFL honors' complete list of winners. NFL.com. Retrieved September 15, 2022, from https://www.nfl.com/news/2015-nfl-honors-complete-list-of-winners-0ap3000000466415 </br>
+New World Encyclopedia. (2022, September 15). National Football League. Visit the main page. Retrieved September 15, 2022, from https://www.newworldencyclopedia.org/entry/National_Football_League </br></br>
+Teams | the football database. the football database. (n.d.). Retrieved September 15, 2022, from https://www.footballdb.com/teams/index.html </br></br>
+NFL. (2015, January 31). 2015 'NFL honors' complete list of winners. NFL.com. Retrieved September 15, 2022, from https://www.nfl.com/news/2015-nfl-honors-complete-list-of-winners-0ap3000000466415 </br></br>
 data.world. (2017, June 7). NFL - dataset by Alice-C. data.world. Retrieved September 15, 2022, from https://data.world/alice-c/nfl 
